@@ -15,18 +15,18 @@ sidebar:
     # Sidebar links
     email: dpan13@ucsc.edu
     phone: +86 18505815147
-    timezone:
+    timezone: 
     citizenship:
     website: denghuipan@github.io #do not add http://
     linkedin: 
-    googlescholar: 
-    github: https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
+    google scholar: https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
