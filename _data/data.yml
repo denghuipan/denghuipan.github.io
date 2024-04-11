@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-    I am Denghui Pan,
+    I am Denghui Pan.
 education:
     title: Education
     info:
@@ -59,21 +59,21 @@ education:
         university: University of California, Santa Cruz
         time: 2024 - Now
         details: |
-          ucsc
+          ucsc.
             - Bullet point
             - Bullet point
       - degree: MSc in Data Science and Information Technology
         university: Tsinghua University
         time: 2020 - 2023
         details: |
-          tsinghua
+          tsinghua.
             - Bullet point
             - Bullet point
       - degree: BSc in Safety Engineering
         university: Zhejiang University of Technology
         time: 2013 - 2017
         details: |
-          zjut
+          zjut.
             - Bullet point
             - Bullet point
 
