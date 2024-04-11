@@ -9,9 +9,8 @@ sidebar:
 
     # Profile information
     name: Denghui Pan
-    tagline: Ph.D. student 
-    University of California, Santa Cruz
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Ph.D. student at University of California, Santa Cruz
+    avatar: 123.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dpan13@ucsc.edu
