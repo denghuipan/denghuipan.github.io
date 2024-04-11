@@ -75,14 +75,6 @@ education:
         time: 2013 - 2017
         details: |
 
-projects:
-    title: News
-    intro: >
-    assignments:
-      - title: [2024.4]
-        link: "#hook"
-        tagline: "New"
-
 publications:
     title: Publications
     intro: |
