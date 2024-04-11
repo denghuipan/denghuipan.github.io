@@ -86,14 +86,11 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Transient dynamics of dissipative solitons formation in a net-normal dispersion mode-locked fiber laser based on nonlinear polarization evolution
+        link: "https://opg.optica.org/ao/abstract.cfm?uri=ao-62-22-5946"
+        authors: Denghui Pan, Xuanyi Liu, Feng Ye, Qian Li, and Hongyan Fu
+        journal: Applied Optics, 2023
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
