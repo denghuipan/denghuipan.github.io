@@ -124,25 +124,56 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Velocity
+      - title: Research on Linear Polarization-maintaining NPE Mode-locked Fiber Laser
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "I designed and constructed an innovative ultrafast fiber laser utilizing the principle of Nonlinear Polarization
+Evolution (NPE) for mode-locking in a Polarization-Maintaining (PM) erbium-doped fiber laser. The
+novelty of this work lies in the incorporation of a novel wavelength-division multiplexer (WDM) collimator
+integrated device, contributing to a more compact laser architecture. The resultant laser demonstrates
+stable output of ultrashort pulses at a repetition rate of 60.9 MHz."
 
-      - title: DevStudio
+      - title: Research on Transient Dynamics of Dissipative Solitons in Mode-locked Fiber Lasers
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "By employing Time-Stretch Dispersion Fourier Transform (TS-DFT) technique, I investigated the dynamic
+process of dissipative soliton formation within an anomalous dispersion fiber laser. The construction of
+dissipative solitons revealed five distinct transient stages: relaxation oscillations, modulation instability,
+spectral broadening, soliton explosion, and stable mode-locking state. Notably, during the soliton explosion
+phase, the existence of dissipative rogue waves was discovered. This finding significantly contributes to
+comprehending the evolutionary dynamics of dissipative soliton formation within nonlinear dissipative
+systems."
 
-      - title: Tempo
+      - title: Research on Ultra-compact Femtosecond Fiber Laser Product
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "This project aims to transition the research-oriented, dispersion-managed, polarization-maintaining,
+erbium-doped femtosecond fiber laser (referred to as the fiber laser) developed within our laboratory
+into an industrialized product. The goal is to create a compact, portable, stable, and adaptable
+fiber laser product suitable for various complex engineering environments. The fiber laser employs
+full-polarization-maintaining fiber with erbium-doped gain medium and features a nine-mirror cavity
+structure. By adjusting the lengths of positively and negatively dispersive fibers, the net dispersion
+within the cavity can be controlled, yielding pulses with different characteristics. When approaching
+near-zero dispersion, the laser generates femtosecond pulses. In an industrial setting, the fiber laser
+is pumped by butterfly-packaged laser diodes for energy supply. Mode-locking is achieved by rotating
+an internal polarizing waveplate to ensure stable pulse output. During the product design phase, the
+precise components of the laser were modeled using Solidworks. These components were fabricated
+by a precision machinery factory, followed by assembly and performance testing of the laser to meet
+industrial-grade standards. This prototype is capable of generating stable laser pulses at 97 MHz with an impressively
+narrow pulse width of only 293 femtoseconds. This product has been included in multiple research
+project and grant applications, including the Tsinghua SIGS Concept Verification Project (Fiber Lasers
+for Biomedical Imaging) and the Overseas Research Cooperation Fund (Coexistence and Evolution of
+Bright and Dark Solitons in Mode-Locked Fiber Lasers)."
 
-      - title: Atom
+      - title: Research on Hybrid Mode-locked Fiber Laser Based on Nonlinear Multimodal Interference
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "The project involved the design of a novel semi-polarization-maintaining erbium-doped fiber laser. A
+distinctive approach was employed, utilizing a reflective multi-mode interference saturable absorber
+(SA) for mode-locking. Within this specially designed SA, linearly polarized light was coupled into
+a 15 cm long gradient refractive index multi-mode fiber through polarization-maintaining fiber. The
+light was then reflected back into the polarization-maintaining structure via a mirror connected to
+a single-mode fiber. The measured modulation depth and saturation peak power were 1.5% and
+0.6 watts, respectively. This laser generated mode-locked pulses of 409 femtoseconds at a repetition
+rate of 33.3 MHz. Compared to traditional nonlinear polarization evolution (NPE) mode-locking in
+non-polarization-maintaining fiber lasers, this laser exhibited superior optical performance metrics,
+including spectral bandwidth, pulse duration, and stability."
 
 
 skills:
