@@ -16,9 +16,9 @@ sidebar:
     email: dpan13@ucsc.edu
     phone: +86 18505815147
     timezone: 
-    citizenship:
+    citizenship: Chinese
     website: denghuipan@github.io #do not add http://
-    linkedin: 
+    linkedin: https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
     google scholar: https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
     github: 
     telegram: # add your nickname without '@' sign
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: 
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1NIcnyOJgb45NbeLl5SBJneP16OMz9LhH/view?usp=drive_link
 
     languages:
       title: Languages
