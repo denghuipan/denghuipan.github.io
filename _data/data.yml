@@ -17,8 +17,9 @@ sidebar:
     phone: +86 18505815147
     timezone: 
     citizenship: Chinese
-    website: denghuipan@github.io #do not add http://
-    linkedin: https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
+    website: https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
+    github:  #do not add http://
+    linkedin:
     google scholar: https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
     github: 
     telegram: # add your nickname without '@' sign
@@ -48,7 +49,7 @@ sidebar:
         - item: Swimming
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
