@@ -99,10 +99,25 @@ publications:
         authors: Feng Ye; Xuanyi Liu; Denghui Pan; H. Y. Fu; Qian Li
         conference: 2023 Conference on Lasers and Electro-Optics (CLEO), San Jose, CA, USA, 2023, pp. 1-2.
 
-      - title: Two pulsed regions in a L-band dissipative-soliton fiber laser controlled by two pump injections
-        link: "https://ieeexplore.ieee.org/abstract/document/10259766"
-        authors: Feng Ye; Xuanyi Liu; Denghui Pan; H. Y. Fu; Qian Li
-        conference: 2023 Conference on Lasers and Electro-Optics (CLEO), San Jose, CA, USA, 2023, pp. 1-2.
+      - title: 115-MHz Linear NPE Fiber Laser Using All Polarization-Maintaining Fibers
+        link: "https://ieeexplore.ieee.org/abstract/document/9296971"
+        authors: Xuanyi Liu; Renlai Zhou; Denghui Pan; Qian Li; H. Y. Fu
+        conference: IEEE Photonics Technology Letters, vol. 33, no. 2, pp. 81-84, 15 Jan.15, 2021.
+
+      - title: All-polarization-maintaining Bidirectional Dual-comb Fiber Laser by Nonlinear Polarization Evolution
+        link: "https://opg.optica.org/abstract.cfm?uri=OECC-2021-T3C.5"
+        authors: Xuanyi Liu, Zhi Li, Denghui Pan, Qian Li, and H. Y. Fu
+        conference: Optoelectronics and Communications Conference 2021, Hong Kong China, 3–7 July 2021.
+         
+      - title: A Robust and Novel Linear Fiber Laser Mode-Locked by Nonlinear Polarization Evolution in All-Polarization-Maintaining Fibers
+        link: "https://ieeexplore.ieee.org/abstract/document/9556141"
+        authors: Xuanyi Liu; Qian Li; Denghui Pan; Feng Ye; Boris A. Malomed; H. Y. Fu
+        conference: Journal of Lightwave Technology, vol. 39, no. 23, pp. 7509-7516, Dec.1, 2021.
+
+      - title: Robust mode-locking in a hybrid ultrafast laser based on nonlinear multimodal interference
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0030399222010878"
+        authors: Xuanyi Liu, Maolin Dai, Denghui Pan, Kaibin Lin, Boris A. Malomed, Qian Li, H.Y. Fu
+        conference: Optics & Laser Technology, Volume 159, April 2023, 108941.
 
 projects:
     title: Projects
