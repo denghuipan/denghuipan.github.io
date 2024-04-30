@@ -1,0 +1,38 @@
+{% assign honor = site.data.data.honor %}
+{% if honor %}
+<section class="section honor-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ honor.title }}
+  </h2>
+
+  {% if honor.intro %}
+  <div class="intro">
+      <p>{{ honor.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for project in honor.assignments %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if project.link %}
+        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+        {% else %}
+        {{ project.title }}
+        {% endif %}
+      </span>
+
+      {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
