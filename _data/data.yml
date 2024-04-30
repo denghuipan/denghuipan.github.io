@@ -198,27 +198,7 @@ including spectral bandwidth, pulse duration, and stability."
       #  level: 60%
 
 
-    honor:
-    title: Honor
-    intro: >
-    assignments:
-      - title: Research on Linear Polarization-maintaining NPE Mode-locked Fiber Laser
-        link: "#"
-        tagline: "I designed and constructed an innovative ultrafast fiber laser utilizing the principle of Nonlinear Polarization
-Evolution (NPE) for mode-locking in a Polarization-Maintaining (PM) erbium-doped fiber laser. The
-novelty of this work lies in the incorporation of a novel wavelength-division multiplexer (WDM) collimator
-integrated device, contributing to a more compact laser architecture. The resultant laser demonstrates
-stable output of ultrashort pulses at a repetition rate of 60.9 MHz."
-
-      - title: Research on Transient Dynamics of Dissipative Solitons in Mode-locked Fiber Lasers
-        link: "#"
-        tagline: "By employing Time-Stretch Dispersion Fourier Transform (TS-DFT) technique, I investigated the dynamic
-process of dissipative soliton formation within an anomalous dispersion fiber laser. The construction of
-dissipative solitons revealed five distinct transient stages: relaxation oscillations, modulation instability,
-spectral broadening, soliton explosion, and stable mode-locking state. Notably, during the soliton explosion
-phase, the existence of dissipative rogue waves was discovered. This finding significantly contributes to
-comprehending the evolutionary dynamics of dissipative soliton formation within nonlinear dissipative
-systems."
+   
 
 footer: >
     Denghui Pan
