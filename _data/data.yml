@@ -175,27 +175,47 @@ non-polarization-maintaining fiber lasers, this laser exhibited superior optical
 including spectral bandwidth, pulse duration, and stability."
 
 
-projects:
-    title: Honors
-    intro: >
-    assignments:
-      - title: Research on Linear Polarization-maintaining NPE Mode-locked Fiber Laser
-        link: "#"
-        tagline: "I designed and constructed an innovative ultrafast fiber laser utilizing the principle of Nonlinear Polarization
-Evolution (NPE) for mode-locking in a Polarization-Maintaining (PM) erbium-doped fiber laser. The
-novelty of this work lies in the incorporation of a novel wavelength-division multiplexer (WDM) collimator
-integrated device, contributing to a more compact laser architecture. The resultant laser demonstrates
-stable output of ultrashort pulses at a repetition rate of 60.9 MHz."
 
-      - title: Research on Transient Dynamics of Dissipative Solitons in Mode-locked Fiber Lasers
-        link: "#"
-        tagline: "By employing Time-Stretch Dispersion Fourier Transform (TS-DFT) technique, I investigated the dynamic
-process of dissipative soliton formation within an anomalous dispersion fiber laser. The construction of
-dissipative solitons revealed five distinct transient stages: relaxation oscillations, modulation instability,
-spectral broadening, soliton explosion, and stable mode-locking state. Notably, during the soliton explosion
-phase, the existence of dissipative rogue waves was discovered. This finding significantly contributes to
-comprehending the evolutionary dynamics of dissipative soliton formation within nonlinear dissipative
-systems."
+experiences:
+    title: Honors
+    info:
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 #skills:
     #title: Skills &amp; Proficiency
