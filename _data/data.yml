@@ -179,7 +179,7 @@ including spectral bandwidth, pulse duration, and stability."
 
 
   
-          experiences:
+  experiences:
     title: Experiences
     info:
       - role: Lead Developer
