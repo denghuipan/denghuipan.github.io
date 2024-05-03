@@ -52,7 +52,7 @@ p {
     color: #fff;
   }
   .profile-container {
-    padding: 1px;
+    padding: 15px;
     //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
@@ -61,14 +61,14 @@ p {
   .name {
     font-size: 32px;
     font-weight: 900;
-    margin-top: 0;
+    margin-top: 15px;
     margin-bottom: 10px;
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
     font-size: 16px;
     font-weight: 400;
-    margin-top: 0;
+    margin-top: 15px;
     margin-bottom: 15px;
   }
   .profile {
