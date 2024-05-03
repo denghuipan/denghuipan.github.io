@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: dpan13@ucsc.edu
     phone: +86 18505815147
-    timezone: 
+    timezone: Santa Cruz
     citizenship: 
-    website: <a href="https://scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en" target="\_blank">Google Scholar</a>
+    website: scholar.google.com/citations?user=YOWLTwcAAAAJ&hl=en
     github:  #do not add http://
     linkedin:
     github: 
@@ -42,7 +42,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Rowing
+        - item: THU Rowing Team
           link:
 
         - item: Swimming
