@@ -184,41 +184,43 @@ including spectral bandwidth, pulse duration, and stability."
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Assistant
+        time: Jingwei Intelligence Lab, Tsinghua Shenzhen Research Institute
+        location: Shenzhen, Guangdong Province
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          · Involved in the Smart AI Drowning Prevention Project at Jingwei Intelligence Lab.
+          · Developed drowning prevention vision algorithms, tracked cutting-edge technologies in computer vision and deep learning, evaluated and applied them to project needs.
+          · Responsible for delivering efficient and reliable algorithm solutions, covering the entire process from requirements to implementation.
+          · Collected and analyzed real-world data to continuously improve the algorithm’s ability to recognize various abnormal conditions.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Research Assistant
+        time: Tsinghua Shenzhen International Graduate School
+        location: Shenzhen, Guangdong Province
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          · Worked in the Hongyan Fu Group at Tsinghua-UC Berkeley Shenzhen Institute Center 2B, focusing on artificial intelligence.
+          · Developed algorithm prototypes, responsible for algorithm design, coding, debugging, evaluation, and optimization of computer vision algorithms.
+          · Engaged in pre-research of cutting-edge technologies in the laboratory.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Lab Coordinator, Innovation Center
+        time: Benenden Bilingual School Guangzhou
+        location: Guangzhou, Guangdong Province
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          · Established the school’s Innovation Center laboratory, specializing in artificial intelligence.
+          · Deployed AI-based activities for students, including setting up the school server for the AI Town experience.
+          · Designed and taught the course “Artificial Intelligence Creative Design and Applications” to high school students.
+          · Managed operations planning, facility procurement, promotion, curriculum planning, and development of the Innovation Center.
+            - Bullet point
+            - Bullet point
+      - role: Teacher
+        time: Hangzhou ROYS Education Consulting Co., Ltd.
+        location: Hangzhou, Zhejiang Province
+        details: |
+          · Taught subjects related to international high school and North American standardized exams, specializing in STEM subjects.
+          · Independently developed SAT/SAT2 Math and Science, AP Calculus, Statistics, Economics, Physics, and Chemistry materials.
+          · Led students to participate in standardized exams such as SAT/SAT2/AP in Hong Kong, achieving high scores.
+          · Trained new staff and managed daily teaching operations.
             - Bullet point
             - Bullet point
 
