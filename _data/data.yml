@@ -227,6 +227,14 @@ news:
     intro: |
     events:
       - title: [2023.6] Graduated from...
+        authors: 
+        conference: 
+
+
+      - title: Robust mode-locking in a hybrid ultrafast laser based on nonlinear multimodal interference
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0030399222010878"
+        authors: Xuanyi Liu, Maolin Dai, Denghui Pan, Kaibin Lin, Boris A. Malomed, Qian Li, H.Y. Fu
+        conference: Optics & Laser Technology, Volume 159, April 2023, 108941.
  
 
 
