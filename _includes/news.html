@@ -16,15 +16,15 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in news.events %}
+  {% for new in news.events %}
   <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% if new.link %}
+      <li><a href="{{ new.link }}">{{ new.title }}</a></li>
     {% else %}
-      <li>{{ publication.title }}</li>
+      <li>{{ new.title }}</li>
     {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="new-authors">{{ new.authors }}</div>
+    <div class="new-conference">{{ new.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
