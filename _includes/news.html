@@ -2,9 +2,19 @@
 {% if news %}
 <section class="section news-section">
 
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-newspaper fa-stack-1x fa-inverse"></i>
+    </span>
+    News
+  </h2>
+
   {% for item in news %}
   <div class="item">
-    <span class="news-title">{{ item.date | date: "%B %d, %Y" }} - {{ item.title }} - {{ item.details }}</span>
+    <span class="news-date"><time datetime="{{ item.date }}">{{ item.date | date: "%B %d, %Y" }}</time></span> - 
+    <span class="news-title">{{ item.title }}</span> - 
+    <span class="news-details">{{ item.details }}</span>
     {% if item.link %}
       <a href="{{ item.link }}" target="_blank">Read more...</a>
     {% endif %}
