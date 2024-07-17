@@ -185,44 +185,39 @@ experiences:
     title: Experiences
     info:
       - role: Research Assistant
-        time: Jingwei Intelligence Lab, Tsinghua Shenzhen Research Institute
+        time:  Jingwei Intelligence Lab, Tsinghua Shenzhen Research Institute
         location: Shenzhen, Guangdong Province
         details: |
-          · Involved in the Smart AI Drowning Prevention Project at Jingwei Intelligence Lab.
-          · Developed drowning prevention vision algorithms, tracked cutting-edge technologies in computer vision and deep learning, evaluated and applied them to project needs.
-          · Responsible for delivering efficient and reliable algorithm solutions, covering the entire process from requirements to implementation.
-          · Collected and analyzed real-world data to continuously improve the algorithm’s ability to recognize various abnormal conditions.
-            - Bullet point
-            - Bullet point
+          · Involved in the Smart AI Drowning Prevention Project.
+          · Developed and implemented drowning prevention vision algorithms.
+          · Tracked, evaluated, and applied cutting-edge technologies in computer vision and deep learning.
+          · Delivered efficient and reliable algorithm solutions from requirements to implementation.
+          · Collected and analyzed real-world data to enhance the algorithm’s ability to recognize various abnormal conditions.
       - role: Research Assistant
         time: Tsinghua Shenzhen International Graduate School
         location: Shenzhen, Guangdong Province
         details: |
-          · Worked in the Hongyan Fu Group at Tsinghua-UC Berkeley Shenzhen Institute Center 2B, focusing on artificial intelligence.
-          · Developed algorithm prototypes, responsible for algorithm design, coding, debugging, evaluation, and optimization of computer vision algorithms.
-          · Engaged in pre-research of cutting-edge technologies in the laboratory.
-            - Bullet point
-            - Bullet point
+          · Worked in the Hongyan Fu Group at Tsinghua-UC Berkeley Shenzhen Institute Center 2B.
+          · Developed and optimized algorithm prototypes for computer vision.
+          · Responsible for algorithm design, coding, debugging, evaluation, and optimization.
+          · Engaged in pre-research of cutting-edge technologies.
       - role: Lab Coordinator, Innovation Center
         time: Benenden Bilingual School Guangzhou
         location: Guangzhou, Guangdong Province
         details: |
-          · Established the school’s Innovation Center laboratory, specializing in artificial intelligence.
-          · Deployed AI-based activities for students, including setting up the school server for the AI Town experience.
+          · Established the Innovation Center laboratory focusing on artificial intelligence.
+          · Deployed AI-based activities, including setting up the school server for the AI Town experience.
           · Designed and taught the course “Artificial Intelligence Creative Design and Applications” to high school students.
-          · Managed operations planning, facility procurement, promotion, curriculum planning, and development of the Innovation Center.
-            - Bullet point
-            - Bullet point
+          · Managed operations planning, facility procurement, promotion, curriculum planning, and development.
       - role: Teacher
         time: Hangzhou ROYS Education Consulting Co., Ltd.
         location: Hangzhou, Zhejiang Province
         details: |
-          · Taught subjects related to international high school and North American standardized exams, specializing in STEM subjects.
-          · Independently developed SAT/SAT2 Math and Science, AP Calculus, Statistics, Economics, Physics, and Chemistry materials.
-          · Led students to participate in standardized exams such as SAT/SAT2/AP in Hong Kong, achieving high scores.
+          · Taught STEM subjects related to international high school and North American standardized exams.
+          · Developed SAT/SAT2 Math and Science, AP Calculus, Statistics, Economics, Physics, and Chemistry materials.
+          · Led students to achieve high scores in standardized exams such as SAT/SAT2/AP in Hong Kong.
           · Trained new staff and managed daily teaching operations.
-            - Bullet point
-            - Bullet point
+
 
 
 footer: >
