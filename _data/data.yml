@@ -223,20 +223,11 @@ experiences:
 
 
 news:
-- title: Research Paper Published
-  date: 2024-07-17
-  details: We are pleased to announce that our latest research paper on AI-based drowning prevention algorithms has been published in the Journal of Computer Vision.
-  link: http://link_to_paper.com
-
-- title: Conference Presentation
-  date: 2024-08-01
-  details: Our team will be presenting at the International Conference on Machine Learning (ICML) this year. Join us for a discussion on the latest advancements in AI and computer vision.
-  link: http://link_to_conference.com
-
-- title: New Research Grants Awarded
-  date: 2024-09-05
-  details: We are excited to announce that we have been awarded two new research grants to further our work in nonlinear optics and ultrafast laser techniques.
-  link: http://link_to_grants.com
+    title: News
+    intro: |
+    events:
+      - title: [2023.6] Graduated from...
+ 
 
 
 

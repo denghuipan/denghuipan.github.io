@@ -5,19 +5,26 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-newspaper fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    News
+    {{ news.title }}
   </h2>
 
-  {% for item in news %}
+  {% if news.intro %}
+  <div class="intro">
+    {{ news.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in news.events %}
   <div class="item">
-    <span class="news-date"><time datetime="{{ item.date }}">{{ item.date | date: "%B %d, %Y" }}</time></span> - 
-    <span class="news-title">{{ item.title }}</span> - 
-    <span class="news-details">{{ item.details }}</span>
-    {% if item.link %}
-      <a href="{{ item.link }}" target="_blank">Read more...</a>
+    {% if publication.link %}
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% else %}
+      <li>{{ publication.title }}</li>
     {% endif %}
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
