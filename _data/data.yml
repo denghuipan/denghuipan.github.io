@@ -63,7 +63,7 @@ education:
     info:
       - degree: University of California, Santa Cruz
         university: Ph.D. in Electrical and Computer Engineering
-        time: 2024 - Now
+        time: 2024 - Present
         details: |
 
       - degree: Tsinghua University
@@ -185,7 +185,7 @@ experiences:
     info:
       - role: Research Assistant
         time: 2024.5 - Present
-        location: Jingwei Intelligence Lab, Tsinghua Shenzhen Research Institute, Shenzhen, Guangdong Province
+        company: Jingwei Intelligence Lab, Tsinghua Shenzhen Research Institute, Shenzhen
         details: |
           - Involved in the Smart AI Drowning Prevention Project.
           - Developed and implemented drowning prevention vision algorithms.
@@ -194,7 +194,7 @@ experiences:
           - Collected and analyzed real-world data to enhance the algorithm’s ability to recognize various abnormal conditions.
       - role: Research Assistant
         time: 2023.12 - Present
-        location: Tsinghua Shenzhen International Graduate School, Shenzhen, Guangdong Province
+        company: Tsinghua Shenzhen International Graduate School, Shenzhen
         details: |
           - Worked in the Hongyan Fu Group at Tsinghua-UC Berkeley Shenzhen Institute Center 2B.
           - Developed and optimized algorithm prototypes for computer vision.
@@ -202,7 +202,7 @@ experiences:
           - Engaged in pre-research of cutting-edge technologies.
       - role: Lab Coordinator, Innovation Center
         time: 2023.8 - 2023.12
-        location: Benenden Bilingual School Guangzhou, Guangzhou, Guangdong Province
+        company: Benenden Bilingual School Guangzhou, Guangzhou
         details: |
           - Established the Innovation Center laboratory focusing on artificial intelligence.
           - Deployed AI-based activities, including setting up the school server for the AI Town experience.
@@ -210,7 +210,7 @@ experiences:
           - Managed operations planning, facility procurement, promotion, curriculum planning, and development.
       - role: Senior Teacher and Team Leader
         time: 2017.8 - 2020.8
-        location: Hangzhou ROYS Education Consulting Co., Ltd., Hangzhou, Zhejiang Province
+        company: Hangzhou ROYS Education Consulting Co., Ltd., Hangzhou
         details: |
           - Instructed advanced STEM subjects related to international high school curricula and North American standardized exams, including SAT/SAT2, AP courses, and more.
           - Expertly developed comprehensive educational materials for SAT/SAT2 Math and Science, AP Calculus, Statistics, Economics, Physics, and Chemistry, enhancing student learning and performance.
