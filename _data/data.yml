@@ -128,7 +128,7 @@ projects:
     intro: >
     assignments:
       - title: Research on Linear Polarization-maintaining NPE Mode-locked Fiber Laser
-        link: "#"
+        link: "https://opg.optica.org/abstract.cfm?uri=oecc-2021-T4C.3"
         tagline: "I designed and constructed an innovative ultrafast fiber laser utilizing the principle of Nonlinear Polarization
 Evolution (NPE) for mode-locking in a Polarization-Maintaining (PM) erbium-doped fiber laser. The
 novelty of this work lies in the incorporation of a novel wavelength-division multiplexer (WDM) collimator
@@ -136,7 +136,7 @@ integrated device, contributing to a more compact laser architecture. The result
 stable output of ultrashort pulses at a repetition rate of 60.9 MHz."
 
       - title: Research on Transient Dynamics of Dissipative Solitons in Mode-locked Fiber Lasers
-        link: "#"
+        link: "https://opg.optica.org/ao/abstract.cfm?uri=ao-62-22-5946"
         tagline: "By employing Time-Stretch Dispersion Fourier Transform (TS-DFT) technique, I investigated the dynamic
 process of dissipative soliton formation within an anomalous dispersion fiber laser. The construction of
 dissipative solitons revealed five distinct transient stages: relaxation oscillations, modulation instability,
@@ -166,7 +166,7 @@ for Biomedical Imaging) and the Overseas Research Cooperation Fund (Coexistence 
 Bright and Dark Solitons in Mode-Locked Fiber Lasers)."
 
       - title: Research on Hybrid Mode-locked Fiber Laser Based on Nonlinear Multimodal Interference
-        link: "#"
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0030399222010878"
         tagline: "The project involved the design of a novel semi-polarization-maintaining erbium-doped fiber laser. A
 distinctive approach was employed, utilizing a reflective multi-mode interference saturable absorber
 (SA) for mode-locking. Within this specially designed SA, linearly polarized light was coupled into
@@ -226,16 +226,11 @@ news:
     title: News
     intro: |
     events:
-
-
       - title: Robust mode-locking in a hybrid ultrafast laser based on nonlinear multimodal interference
         link: "https://www.sciencedirect.com/science/article/abs/pii/S0030399222010878"
         authors: Xuanyi Liu, Maolin Dai, Denghui Pan, Kaibin Lin, Boris A. Malomed, Qian Li, H.Y. Fu
         conference: Optics & Laser Technology, Volume 159, April 2023, 108941.
       
-      - title: [Aug 2024] I joined the Applied Optics Group in ECE, UCSC.
-        link: "http://photon.soe.ucsc.edu"
-        authors: sdasdasdasdasda
 
 
 
