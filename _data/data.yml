@@ -126,6 +126,17 @@ projects:
     title: Projects
     intro: >
     assignments:
+     - title: "Deep Learning for Spectral Reconstruction with Multimode Interference (MMI) Chips"
+        link: "#" 
+        tagline: "This project introduces a novel computational spectrometer that leverages a multimode interference (MMI)
+      chip to encode spectral information into unique 2D spatial interference patterns. We employ a deep
+      learning model, specifically a Convolutional Neural Network (CNN) with SE-modules and residual connections,
+      to accurately reconstruct the original spectrum from these patterns. The model is trained using a multi-task
+      loss function for enhanced accuracy in both spectral shape and peak prediction, and its robustness is improved
+      through data augmentation with complex, synthetic spectra. This approach aims to create a compact, high-performance
+      alternative to traditional spectrometers."
+
+    
       - title: Research on Linear Polarization-maintaining NPE Mode-locked Fiber Laser
         link: "https://opg.optica.org/abstract.cfm?uri=oecc-2021-T4C.3"
         tagline: "I designed and constructed an innovative ultrafast fiber laser utilizing the principle of Nonlinear Polarization
