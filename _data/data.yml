@@ -64,13 +64,13 @@ education:
         university: Ph.D. in Electrical and Computer Engineering
         time: Fall 2024 - Present
         details: |
-        Current Project: Collaboration with Department of Astronomy and Astrophysics to develop cutting-edge spectrometers-on-a-chip for astronomy application
+        Current Project - Collaboration with Department of Astronomy and Astrophysics to develop cutting-edge spectrometers-on-a-chip for astronomy application
 
       - degree: Tsinghua University
         university: M.S. in Data Science and Information Technology
         time: 2020 - 2023
         details: |
-        Thesis: Research on Soliton Transient Dynamics in Passively Mode-locked Er-doped Fiber Laser
+        Thesis - Research on Soliton Transient Dynamics in Passively Mode-locked Er-doped Fiber Laser
         
       - degree: Zhejiang University of Technology
         university: B.S. in Safety Engineering
@@ -128,7 +128,7 @@ projects:
     title: Projects
     intro: >
     assignments:
-     - title: "Deep Learning for Spectral Reconstruction with Multimode Interference (MMI) Chips"
+      - title: Deep Learning for Spectral Reconstruction with Multimode Interference (MMI) Chips
         link: "#" 
         tagline: "This project introduces a novel computational spectrometer that leverages a multimode interference (MMI)
       chip to encode spectral information into unique 2D spatial interference patterns. We employ a deep
