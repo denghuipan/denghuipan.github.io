@@ -63,12 +63,14 @@ education:
       - degree: University of California, Santa Cruz
         university: Ph.D. in Electrical and Computer Engineering
         time: 2024 - Present
-        details: Current Project: Collaboration with Department of Astronomy and Astrophysics to develop cutting-edge spectrometers-on-a-chip for astronomy application
+        details: |
+        Current Project: Collaboration with Department of Astronomy and Astrophysics to develop cutting-edge spectrometers-on-a-chip for astronomy application
 
       - degree: Tsinghua University
         university: M.S. in Data Science and Information Technology
         time: 2020 - 2023
-        details: Thesis: Research on Soliton Transient Dynamics in Passively Mode-locked Er-doped Fiber Laser
+        details: |
+        Thesis: Research on Soliton Transient Dynamics in Passively Mode-locked Er-doped Fiber Laser
         
       - degree: Zhejiang University of Technology
         university: B.S. in Safety Engineering
