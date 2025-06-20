@@ -137,7 +137,6 @@ projects:
       loss function for enhanced accuracy in both spectral shape and peak prediction, and its robustness is improved
       through data augmentation with complex, synthetic spectra. This approach aims to create a compact, high-performance
       alternative to traditional spectrometers."
-
     
       - title: Research on Linear Polarization-maintaining NPE Mode-locked Fiber Laser
         link: "https://opg.optica.org/abstract.cfm?uri=oecc-2021-T4C.3"
