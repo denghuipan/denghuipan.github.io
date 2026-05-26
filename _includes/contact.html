@@ -21,7 +21,7 @@
 
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
-      <a href="">{{ sidebar.timezone }}</a>
+      <a href="{% if sidebar.timezone_link %}{{ sidebar.timezone_link }}{% endif %}"{% if sidebar.timezone_link %} target="_blank" rel="noreferrer noopener"{% endif %}>{{ sidebar.timezone }}</a>
     </li>
     {% endif %}
 
