@@ -144,6 +144,14 @@ projects:
     title: Projects
     intro: >
     assignments:
+      - title: Engineering of Efficient SMF Coupling for Lick Observatory's Shane-3m Telescope Adaptive Optics System
+        link: "#"
+        tagline: "September 2024–Present. Applied Optics Group & Lick Observatory (University of California Observatories), University of California, Santa Cruz. Investigated single-mode fiber (SMF) coupling in the Lick Observatory ShaneAO system, addressing engineering challenges in astronomical light injection. Developed and implemented an SMF coupling strategy for telescopes based on the APALO (Astrophotonic Advancement at Lick Observatory) platform, with optimization in the visible spectrum. Enhanced coupling efficiency and established a robust experimental scheme to support future astronomical optics research."
+
+      - title: Research on MIMAS (Multimodal Interference Miniaturized Astrophotonic Spectrometer)
+        link: "#"
+        tagline: "September 2024–Present. Applied Optics Group & Lick Observatory (University of California Observatories), University of California, Santa Cruz. Developed a chip-scale multimode interference (MMI) waveguide spectrometer optimized for ultra-low-light astrophysical applications, achieving enhanced sensitivity and compact integration. Collected MMI patterns from the chip using both narrowband and broadband light sources to generate training data for the CNN-based model for spectral reconstruction. Applied the MMI spectrometer in the ShaneAO system at Lick Observatory to measure the spectra of stars."
+
       - title: Deep Learning for Spectral Reconstruction with Multimode Interference (MMI) Chips
         link: "#" 
         tagline: "This project introduces a novel computational spectrometer that leverages a multimode interference (MMI)
