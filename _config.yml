@@ -2,11 +2,7 @@
 
 # Site Settings
 title: Denghui Pan
-url: 'http://denghuipan@github.io'
-
-#change it according to your repository name
-# disabling since we are using a custom domain
-#baseurl: '/online-cv' 
+url: 'https://denghuipan.github.io'
 
 description: Denghui Pan
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
