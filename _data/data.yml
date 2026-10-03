@@ -41,13 +41,13 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Tennis
+          link:
+
         - item: Rowing
           link:
 
         - item: Swimming
-          link:
-
-        - item: 
           link:
 
 career-profile:
@@ -153,7 +153,6 @@ projects:
         tagline: "September 2024–Present. Applied Optics Group & Lick Observatory (University of California Observatories), University of California, Santa Cruz. Developed a chip-scale multimode interference (MMI) waveguide spectrometer optimized for ultra-low-light astrophysical applications, achieving enhanced sensitivity and compact integration. Collected MMI patterns from the chip using both narrowband and broadband light sources to generate training data for the CNN-based model for spectral reconstruction. Applied the MMI spectrometer in the ShaneAO system at Lick Observatory to measure the spectra of stars."
 
       - title: Deep Learning for Spectral Reconstruction with Multimode Interference (MMI) Chips
-        link: "#" 
         tagline: "This project introduces a novel computational spectrometer that leverages a multimode interference (MMI)
       chip to encode spectral information into unique 2D spatial interference patterns. We employ a deep
       learning model, specifically a Convolutional Neural Network (CNN) with SE-modules and residual connections,
@@ -181,7 +180,6 @@ comprehending the evolutionary dynamics of dissipative soliton formation within 
 systems."
 
       - title: Research on Ultra-compact Femtosecond Fiber Laser Product
-        link: "#"
         tagline: "This project aims to transition the research-oriented, dispersion-managed, polarization-maintaining,
 erbium-doped femtosecond fiber laser (referred to as the fiber laser) developed within our laboratory
 into an industrialized product. The goal is to create a compact, portable, stable, and adaptable
@@ -261,7 +259,10 @@ news:
     title: News
     intro: |
     events:
-      
+
+      - title: "[Apr 2026] Our paper \"Silicon Dioxide Multi-Mode Interference Spectrometers\" was published in Micromachines!"
+        link: "https://www.mdpi.com/2072-666X/17/4/453"
+
       - title: "[Aug 2024] I joined the Applied Optics Group in ECE, UCSC!"
         link: "http://photon.soe.ucsc.edu"
 
